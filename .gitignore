@@ -2,4 +2,3 @@ node_modules/
 data/*.txt
 .env
 
-client/node_modules/
