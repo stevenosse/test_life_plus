@@ -40,3 +40,12 @@ $ npm run serve
 ```
 
 Le frontend démarrera à l'adresse http://localhost:8080
+
+### Aperçu
+#### Première génération
+
+![alt text](./1.png "Logo Title Text 1")
+
+#### Deuxième génération
+
+![alt text](./2.png "Logo Title Text 1")
