@@ -20,7 +20,7 @@
 $ npm install
 ```
 
-2. Se déplacer dans le dossier **client** la racine via la ligne de commande et taper la commande:
+2. Se déplacer dans le dossier **frontend** la racine via la ligne de commande et taper la commande:
 
 ```shell
 $ npm install
@@ -33,10 +33,10 @@ $ npm start
 
 Le serveur démarrera à l'adresse http://localhost:4000
 
-4. Lancer le client via la commande (depuis le dossier client):
+4. Lancer le frontend via la commande (depuis le dossier frontend):
 
 ```shell
 $ npm run serve
 ```
 
-Le client démarrera à l'adresse http://localhost:8080
+Le frontend démarrera à l'adresse http://localhost:8080
