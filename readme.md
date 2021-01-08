@@ -46,6 +46,6 @@ Le frontend démarrera à l'adresse http://localhost:8080
 
 ![alt text](./1.png "Logo Title Text 1")
 
-#### Deuxième génération
+#### 94ème génération
 
 ![alt text](./2.png "Logo Title Text 1")
